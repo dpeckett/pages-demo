@@ -1,2 +1,1 @@
-# pages-demo
-Cloudflare Pages Experiments
+# Pages Demo
